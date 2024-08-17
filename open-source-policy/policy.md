@@ -156,7 +156,7 @@ open source policy, created based on OMB's M-16-21 policy.
 
 ## Thanks ##
 
-CISA would like to thank 18-F, Consumer Financial Protection Bureau, Department
+CISA would like to thank 18F, Consumer Financial Protection Bureau, Department
 of Defense, and Office of Management and Budget for their work in blazing the
 path for the use of FOSS in the Federal Government.
 
@@ -166,4 +166,4 @@ This policy is a living document. CISA expects to make changes to this policy in
 the future, and we welcome
 [issues](https://github.com/cisagov/development-guide/issues) and [pull
 requests](https://github.com/cisagov/development-guide/pulls). To contact us
-privately, email cisagov-github-group@trio.dhs.gov .
+privately, email [github@cisa.dhs.gov](mailto:github@cisa.dhs.gov).
